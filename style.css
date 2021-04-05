@@ -1,0 +1,48 @@
+/*ブラウザが持つCSSをリセット*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 70px;
+  width: 100%;
+  background-color: #ec715f;
+}
+
+.header-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.nav {
+  list-style: none;
+  display: flex;
+}
+
+.nav-list {
+  font-size: 16px;
+  color: #fafafa;
+  line-height: 70px;
+  width: 120px;
+  padding: 0 30px;
+}
+
+.logo {
+  height: 70px;
+}
+
+/*.menu-box {
+  height: 70px;
+  width: 1024px;
+}*/
+
+.main-visual {
+  height: 650px;
+}
