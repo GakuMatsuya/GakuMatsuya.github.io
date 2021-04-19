@@ -300,4 +300,22 @@ footer {
   .nav-list {
     display: none;
   }
+
+  /* =====================================
+   main visual
+  ======================================*/
+
+  #main-visual {
+    background-image: url(img/code.png);
+    height: 650px;
+  }
+
+  .mv-title {
+    margin: 200px 0 10px 0;
+    font-size: 40px;
+  }
+
+  .mv-text {
+    font-size: 18px;
+  }
 }
