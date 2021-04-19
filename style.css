@@ -321,4 +321,16 @@ footer {
   .mv-text {
     font-size: 18px;
   }
+
+  /* =====================================
+   production group
+  ======================================*/
+
+  .production-group {
+    width: 300px;
+  }
+
+  .production {
+    margin-right: 0px;
+  }
 }
