@@ -263,6 +263,10 @@ footer {
     width: 100%;
   }
 
+  .sp-none {
+    display: none;
+  }
+
   /* =====================================
    Header
   ======================================*/
@@ -311,7 +315,6 @@ footer {
   }
 
   .mv-title {
-    margin: 200px 0 10px 0;
     font-size: 40px;
   }
 
