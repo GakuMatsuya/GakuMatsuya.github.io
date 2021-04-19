@@ -323,7 +323,7 @@ footer {
   }
 
   /* =====================================
-   production group
+   portfolio
   ======================================*/
 
   .production-group {
@@ -332,5 +332,14 @@ footer {
 
   .production {
     margin-right: 0px;
+  }
+
+  /* =====================================
+   feature
+  ======================================*/
+
+  .strength-group {
+    display: block;
+    width: 320px;
   }
 }
