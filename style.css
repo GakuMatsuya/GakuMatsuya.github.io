@@ -365,4 +365,21 @@ footer {
     margin-bottom: 20px;
   }
 
+  /* =====================================
+   contact
+  ======================================*/
+
+  .left-contact-content {
+    width: 100%;
+  }
+
+  .right-contact-content {
+    width: 100%;
+  }
+
+  .contact-group {
+    flex-flow: row wrap;
+    text-align: center;
+    width: 100%;
+  }
 }
